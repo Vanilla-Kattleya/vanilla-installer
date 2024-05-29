@@ -3,9 +3,9 @@
     "distro_name": "Vanilla OS",
     "distro_logo": "org.vanillaos.Installer-flower",
     "images": {
-        "default": "ghcr.io/vanilla-os/desktop:main",
-        "nvidia": "ghcr.io/vanilla-os/nvidia:main",
-        "vm": "ghcr.io/vanilla-os/vm:main"
+        "default": "ghcr.io/vanilla-kattleya/plasma:main",
+        "nvidia": "ghcr.io/vanilla-kattleya/nvidia:main",
+        "vm": "ghcr.io/vanilla-kattleya/vm:main"
     },
     "default_root_size": 12288,
     "min_disk_size": 28680,
